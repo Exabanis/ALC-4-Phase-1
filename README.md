@@ -9,4 +9,4 @@ Button 2 takes you to Activity C when clicked.
 
 Activity B is the About ALC page, it contains only a Webview that loads the URL https://andela.com/alc/ which is the ALC about page.
 
-Activity C is my profile, it contains an ImageView which display my photo, TextViews showing your name, Track, Country, Email and Phone Number.
+Activity C is my profile, it contains an ImageView which display my photo, TextViews showing my name, Track, Country, Email and Phone Number.
